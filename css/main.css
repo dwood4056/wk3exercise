@@ -1,0 +1,14 @@
+a:hover { 
+    background-color: red;
+}
+.btn1{
+	background-color: blue;
+}
+.btn2{
+	background-color: orange
+}
+.btn3{
+	background-color: purple
+}
+body { 
+    background: gold; 
